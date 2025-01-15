@@ -4,7 +4,7 @@
 
 | Name                | Student Number | Email                |
 |---------------------|----------------|----------------------|
-| Gurjot Grewal         | 300263760  | gurjot_grewal@outlook.com         |
+| Gurjot Grewal         | 300263760  | ggrew065@uottawa.ca         |
 | [Team Member 1]     | [Number]       | [Email]              |
 | [Team Member 2]     | [Number]       | [Email]              |
 

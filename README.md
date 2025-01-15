@@ -1,7 +1,4 @@
 # Key Management System
-
-### Group 23 - Capstone
-
 ---
 
 ## Team Members

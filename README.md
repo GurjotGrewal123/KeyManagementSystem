@@ -5,7 +5,7 @@
 | Name                | Student Number | Email                |
 |---------------------|----------------|----------------------|
 | Gurjot Grewal         | 300263760  | ggrew065@uottawa.ca         |
-| [Team Member 1]     | [Number]       | [Email]              |
+| Rafael Arif | 300228027 | rarif032@uottawa.ca |
 | [Team Member 2]     | [Number]       | [Email]              |
 
 ---

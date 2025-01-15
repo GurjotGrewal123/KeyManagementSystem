@@ -6,7 +6,7 @@
 |---------------------|----------------|----------------------|
 | Gurjot Grewal         | 300263760  | ggrew065@uottawa.ca         |
 | Rafael Arif | 300228027 | rarif032@uottawa.ca |
-| [Team Member 2]     | [Number]       | [Email]              |
+| Rasheek Mahmud     | 300247685       | rmahm090@uottawa.ca              |
 
 ---
 
